@@ -25,6 +25,7 @@ Clona el repositorio:
 
 ```bash
 git clone https://github.com/Idsanchez0/test_isaac_sanchez_3a
+seleccionar la rama develop
 ```
 
 Instala dependencias:
