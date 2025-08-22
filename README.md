@@ -56,6 +56,8 @@ flutter build web --release
 
 El contenido se guarda en `build/web`.
 
+La aplicación se encuetra desplegada en el enlace: (https://melodious-arithmetic-92a4a9.netlify.app/)
+
 ---
 
 ## 📸 Características principales
